@@ -1,2 +1,2 @@
 # myvue
-this is read me.
+this is readme.
